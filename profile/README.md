@@ -1,4 +1,6 @@
 # Tukaan
+![logo](https://user-images.githubusercontent.com/95927277/165413444-0eed52ae-b870-4379-9714-977599a76c01.png)
+
 ## Tukaan is a modern, cross-platform GUI framework for Python, which aims to replace Tkiner.
 Why not Tkinter?
 Tkinter is just a wrapper around Tk, that is so thin, that you can see through it, and even has holes on it. If you have ever used Tkinter, you know, it's kinda dumb. There are a lot of things not implemented in Tkinter, that you can only access with Tcl calls. Tukaan has everything you could need, and maybe even more :)
