@@ -1,4 +1,4 @@
-![Tukaan banner](../assets/tukaan_banner.png)
+![Tukaan banner](https://github.com/tukaan/.github/blob/master/assets/tukaan_banner.png)
 
 ### Tukaan is a modern, cross platform Python toolkit for creating desktop GUI applications.
 It's the perfect alternative for Tkinter!
