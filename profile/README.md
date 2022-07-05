@@ -1,15 +1,17 @@
-![Tukaan banner](https://github.com/tukaan/.github/blob/master/assets/tukaan_banner.png)
+<h1 align="center">Tukaan • The new experience</h1>
+<p align="center">Tukaan is a modern, cross platform Python toolkit for creating desktop GUI applications</p>
 
-### Tukaan is a modern, cross platform Python toolkit for creating desktop GUI applications.
-It's the perfect alternative for Tkinter!
+</br>
 
-## Why not Tkinter?
-Tkinter is just a wrapper around Tk, that is so thin, that you can see through it, and even has holes on it. If you have ever used Tkinter, you know, it's kinda dumb. There are a lot of things not implemented in Tkinter, that you can only access with Tcl calls. Tukaan has everything you could need, and maybe even more 😃
+<img src="https://raw.githubusercontent.com/tukaan/.github/master/assets/tukaan.png" height="100" align="left">
 
-In Tcl almost everything is represented as strings, and Tkinter doesn't always convert them to Python objects, so you have to do that yourself. If you mess something up, it won't raise a Python exception, but Tcl a error instead, which you don't understand, even if you know the Tcl language.
+With Tukaan you can make awesome modern GUI apps.<br>Tukaan is intuitive and powerful - the complete opposite of Tkinter, although it was initially meant as an alternative to it.
 
-Tkinter also looks awful by default. You can change this, if you use the the Ttk extensions. But why should you use extensions to make your GUI not look like it came from the 90's? With Tukaan this is completely different. The apps look native by default on Windows and on MacOS as well. Unfortunately this isn't possible on Linux, but it still uses a better theme than the Tk default.
+[Check out the project! ➡](https://github.com/tukaan/tukaan)
 
+</br>
 
-## Contributing
-Help is always welcome so don't be shy about contributing! 
+<p align="left">
+  <h2>Contributing</h2>
+  <p>If you like this project and want to contribute, you are very welcome to join the team!</p>
+</p>
